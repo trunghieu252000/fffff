@@ -10,7 +10,7 @@ namespace hello
             Console.WriteLine("okeeeee!!!!");
             Console.WriteLine("update");
             Console.WriteLine("ye!!!!!!!!!");
-            Console.WriteLine("ye!!!!!!!!!");
+            Console.WriteLine("nguuuuuuuuuuuu");
         }
     }
 }
